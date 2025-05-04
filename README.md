@@ -1,2 +1,1 @@
-﻿# simple_app_add_patient
 
