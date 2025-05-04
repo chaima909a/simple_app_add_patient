@@ -25,7 +25,7 @@ Docker & Docker Compose installed on your machine.
 
 🚀 Steps to Run:
 Clone this repository:
-git clone https://github.com/ton-username/nom-du-repo.git
+git clone https://github.com/chaima909a/simple_app_add_patient.git
 cd nom-du-repo
 Build and run the Docker containers using Docker Compose:
 docker-compose up --build
@@ -39,13 +39,12 @@ Username: root
 Password: root
 
 📦 File Structure:
-graphql
-Copier
-Modifier
+
 ├── Dockerfile              # Defines the PHP web server container
+
 ├── docker-compose.yml      # Configuration for services (web, db, phpMyAdmin)
+
 ├── index.php               # Main application to add/view patients
-├── add_patient.php         # Form for adding new patients
-├── .gitignore              # Git ignore file for unnecessary files
-└── README.md               # Project description
+
+
 
